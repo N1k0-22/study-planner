@@ -1,0 +1,3 @@
+Programming Tasks:
+- Learn Git basics
+- Practice Python loops
