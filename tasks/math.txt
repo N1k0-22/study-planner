@@ -5,3 +5,6 @@ Math Tasks:
 
 - Study prime factorisation
 - Practice limits
+
+- Practice linear equations
+- Practice graphing lines
