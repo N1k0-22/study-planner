@@ -1,3 +1,6 @@
 Programming Tasks:
 - Learn Git basics
 - Practice Python loops
+
+- Learn functions
+- Practice arrays
