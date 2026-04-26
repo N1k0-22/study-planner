@@ -4,3 +4,6 @@ Programming Tasks:
 
 - Learn functions
 - Practice arrays
+
+- Practices variables
+- Practice data types (int, string, boolean)
