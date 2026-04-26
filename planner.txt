@@ -1,0 +1,11 @@
+Team members:
+- Account A (N1k0-22): Math
+- Account B (N1ky222): Programming
+
+Account A:
+- Create and manage branch feature-math
+- Add math tasks into tasks/math.txt
+
+Account B:
+- Create and manage branch feature-programming
+- Add programming tasks into tasks/programming.txt
