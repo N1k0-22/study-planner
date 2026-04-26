@@ -10,4 +10,4 @@ Account B:
 - Create and manage branch feature-programming
 - Add programming tasks into tasks/programming.txt
 
-Both accounts only use their own branch.
+Both accounts only use their own branch!
